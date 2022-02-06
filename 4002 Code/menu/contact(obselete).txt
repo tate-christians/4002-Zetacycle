@@ -1,0 +1,51 @@
+<html>
+	<head>
+		<title>Zetacycle Beta [0.0.1]</title>
+	</head>
+	<body>
+		<h1 id="top">ZetaCycle::Contact Us</h1>
+		<p><a href="../zetacycle.html">Return to ZetaCycle home page</a></p>
+		<br />
+
+		<img src="../images/TateChristians.jpg" width="300" height="450" />
+		<h3>Tate Christians</h3>
+		<p>
+			<b><i>Founder</i></b><br />
+			Cell: 616-340-5376<br />
+			Email: <a href="mailto:zetacycle@gmail.com">zetacycle.com</a>
+		</p>
+		<br />
+		<h3>Jordan Palmer</h3>
+		<p>
+			<b><i>Programming Manager</i></b><br />
+			Cell: N/A<br />
+			Email: <a href="mailto:zetacycle@gmail.com">zetacycle.com</a>
+		</p>
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<p><a href="#top">Top</a></p>	
+	
+	</body>
+</html>
